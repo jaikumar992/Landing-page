@@ -241,7 +241,7 @@ width: 300px;
 }
 /* //footer  start */
 .footer {
-  background: url('map-55268416cd7ee847a41939f31605e2fa9977e841.png.jpeg') center/cover no-repeat; /* Replace with your map image */
+  background: url('images/map-55268416cd7ee847a41939f31605e2fa9977e841.png.jpeg') center/cover no-repeat; /* Replace with your map image */
     background-color: #faf6f4; /* soft pinkish background like the image */
   color: #333;
   text-align: center;
