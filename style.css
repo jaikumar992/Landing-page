@@ -12,7 +12,7 @@ body{
      height: 750px;
     width: 100%; 
     position: relative; 
-    background :url('hero.jpeg') no-repeat center center/cover;
+    background :url('images/hero.jpeg') no-repeat center center/cover;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -118,7 +118,7 @@ font-weight: 400;
 }
 .cuple-image{
     height: 16rem;
-    margin-top: 3.2rem;
+    margin-top: 3.9rem;
     
 }
 
